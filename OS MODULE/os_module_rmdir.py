@@ -1,0 +1,3 @@
+#IT IS REMOVE A FOLDER IN YOUR WORKING PLACE
+import  os
+print(os.rmdir("D:\IMPORTANT\PYTHON\OS MODULE\New folder"))

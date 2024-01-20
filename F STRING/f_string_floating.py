@@ -1,0 +1,15 @@
+num=12.34
+price=15.34566134522
+print(f"{price:9.20f}")
+print(f"{num}")
+print(f"{num:f}")
+print(f"{num:9.3f}")
+print(f"{num:+9.3f}")
+print(f"{num:-9.3f}")
+print(f"{num:09.3f}")
+print(f"{num:<9.4f}")
+print(f"{num:*<9.3f}")
+print(f"{num:>9.5f}")
+print(f"{num:*>9.2f}")
+print(f"{num:^10.3f}")
+print(f"{num:*^10.3f}")

@@ -1,0 +1,9 @@
+a={101:'aadarsh',102:'dilip',103:'abhishek','aadarsh':5000,'dilip':7000,'abhishek':6000,}
+print(id(a))
+print(type(a))
+print(a[101])
+print(a[102])
+print(a[103])
+print(a['aadarsh'])
+print(a['dilip'])
+print(a['abhishek'])

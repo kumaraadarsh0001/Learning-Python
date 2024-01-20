@@ -1,0 +1,6 @@
+file=open('myfile3.txt', 'a')
+file.write('\nhellow world\n')
+file.write('my name is kumar aadarsh\n')
+file.write('how are you my friends')
+file .close()
+print('task complete successfully')

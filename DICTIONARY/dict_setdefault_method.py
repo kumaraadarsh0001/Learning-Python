@@ -1,0 +1,10 @@
+stu={101:'Rahul',102:'Raj',103:'Sonam'}
+print('original dictionary:')
+print(stu)
+print(id(stu))
+print()
+return_value=stu.setdefault(104,'Python')
+print('After setdefault dictionary:')
+print(stu)
+print(id(stu))
+print('Returned Value:',return_value)

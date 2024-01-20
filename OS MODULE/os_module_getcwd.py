@@ -1,0 +1,4 @@
+#.IT GIVES CURRENT WORKING FOLDER LOCATION OR PATH
+import os 
+cwd=os.getcwd()
+print("CURRENT WORKING DIRECTTRY:",cwd)

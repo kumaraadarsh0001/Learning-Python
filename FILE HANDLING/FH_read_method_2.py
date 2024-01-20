@@ -1,0 +1,5 @@
+print('#BINARY FORM OF LINES:')
+file=open('myfile1.txt','rb')
+read=file.read()
+print(read)
+file.close()

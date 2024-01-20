@@ -1,0 +1,6 @@
+print("hello myname is {}".format("aadarsh"))
+print("{} {}".format(420,"kumar aadarsh"))
+print("{0} {1}".format(420,"kumar aadarsh"))
+print("{1} {0}".format(420,"kumar aadarsh"))
+print("{num1} {str1}".format(num1=10,str1="aadarsh"))
+print("{str1} {num1}".format(num1=20,str1="aadarsh"))
